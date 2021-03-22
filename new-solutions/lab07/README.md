@@ -6,8 +6,13 @@ React Project Template with automated build.
 
 1. Install Node.js
 2. Install git.
+3. In the console, type: npm install
 
 ## Usage
+## Usage
+To build:
+
+1. npm run build
 
 ## Credits
 

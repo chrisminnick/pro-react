@@ -1,0 +1,23 @@
+{
+  "name": "lab04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "8.11.2"
+  },
+  "scripts": {
+    "lint": "eslint . --ext .js",
+    "test": "echo \"All tests passed\" && exit 0",
+    "build": "echo \"BUILD OK\" && exit 0",
+    "prebuild": "npm run version && npm run test",
+    "version": "node version-check.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.22.0",
+    "eslint-plugin-react": "^7.22.0",
+    "semver": "^7.3.4"
+  }
+}

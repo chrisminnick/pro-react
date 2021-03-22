@@ -6,6 +6,7 @@ module.exports = {
         "node": true,
         "jasmine": true
     },
+    
     "extends": "eslint:recommended",
     "parserOptions": {
         "ecmaFeatures": {
