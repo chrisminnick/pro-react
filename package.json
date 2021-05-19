@@ -1,14 +1,14 @@
 {
-  "name": "react-training",
+  "name": "pro-react",
   "repository": {
     "type": "git",
-    "url": "git://github.com/watzthisco/tdd-react-labs-v3.x.git"
+    "url": "git://github.com/chrisminnick/pro-react.git"
   },
-  "version": "3.2.0",
-  "description": "React Project Template with automated build.",
+  "version": "17.0.0",
+  "description": "",
   "main": "index.js",
   "engines": {
-    "node": "8.0.0"
+    "node": "16.0.0"
   },
   "scripts": {
     "lint": "eslint . --ext .js",
