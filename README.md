@@ -1,11 +1,11 @@
-# TDD Using React Lab Files
+# Professional React Lab Files
 
-Lab files for Tdd Using React Version 3.x.
+Lab files for Professional React Version 17.
 These labs are meant to be used as part of 
-the 5-day React and TDD training created by 
+the 5-day Professional React training created by 
 Chris Minnick. For more information about 
 licensing the course and/or setting up training 
-at your organization, visit https://www.watzthis.com/product/tdd-using-react-and-es6/
+at your organization, visit https://github.com/chrisminnick/pro-react
 
 ## Installation
 

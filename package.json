@@ -1,8 +1,8 @@
 {
-  "name": "react-training",
+  "name": "pro-react",
   "repository": {
     "type": "git",
-    "url": "git://github.com/watzthisco/tdd-react-labs-v3.x.git"
+    "url": "git://github.com/chrisminnick/pro-react"
   },
   "version": "3.2.0",
   "description": "React Project Template with automated build.",
